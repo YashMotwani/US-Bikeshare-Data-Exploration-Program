@@ -6,13 +6,17 @@ In this project, Python is used to explore data related to bike share systems fo
 - According to the input the code will import the data and will provide information by computing descriptive statistics.
 
 ## Files used:
-bikeshare_2.py
+* bikeshare_2.py
 
 ## Credits:
 * Richard Kalehoff
     - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
     - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
 
+##Softwares needed:
+* Python 3, NumPy, and Pandas installed using Anaconda
+* A text editor, like VS Code or Atom.
+* A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 
 
