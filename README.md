@@ -25,3 +25,7 @@ In this project, Python is used to explore data related to bike share systems fo
 * [Python using Anaconda (latest version for windows)](https://www.anaconda.com/distribution/)
 * [Visual Studio Code Editor (for windows)](https://code.visualstudio.com/docs/setup/windows)
 
+## Links for software tutorials:
+* [Git - Reference](https://git-scm.com/docs)
+* [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+* [VS Code Documentation](https://code.visualstudio.com/docs)
