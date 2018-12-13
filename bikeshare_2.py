@@ -31,8 +31,12 @@ def get_filters():
         else:
             print("invalid input. Please enter a valid input")
     # get user input for day of week (all, monday, tuesday, ... sunday)
-    day = input("Do you want details specific to a particular day? If yes, type day name else type 'all'")
-
+    while True:
+        day = input("Do you want details specific to a particular day? If yes, type day name else type 'all'")
+        if day in ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']:
+            break
+        else:
+            print("invalid input. Please enter a valid input")
     print('-'*40)
     return city, month, day
 
